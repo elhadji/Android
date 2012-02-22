@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="call_mode">
+        <item >Call Mode Confirmation</item>
+        <item >Call Mode Automatic</item>
+    </string-array>
+    <string-array name="call_mode_values">
+         <item>to_confirm</item>
+    	<item>automatic</item>
+    </string-array>
+    
+</resources>

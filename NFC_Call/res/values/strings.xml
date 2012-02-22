@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, NFC_CallActivity!</string>
+    <string name="app_name">NFC_Call</string>
+    <string name="contact_saved">Contact Saved</string>
+    <string name="contact_not_saved">Contact Not Saved</string>
+    <string name="contact_not_delete">Contact Not Delete</string>
+    <string name="contact_delete">Contact Delete</string>
+    <string name="contact_modified">Contact Modified</string>
+    <string name="contact_not_modified">Contact Not Modified</string>
+    
+   
+    
+
+</resources>

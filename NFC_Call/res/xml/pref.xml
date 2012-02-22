@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" >
+    <PreferenceCategory android:title="MyPref" >
+	    <ListPreference 
+	    android:title="Call Mode" 
+	    android:key="call_mode_choice" 
+	    android:summary="Choose the mode"
+	    android:entries="@array/call_mode"
+	    android:entryValues="@array/call_mode_values"
+	    android:dialogTitle="Mode Call Automatic">
+	        
+	    </ListPreference>
+    </PreferenceCategory>
+        
+</PreferenceScreen>
